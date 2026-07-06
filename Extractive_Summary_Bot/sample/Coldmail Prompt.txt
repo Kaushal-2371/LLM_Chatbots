@@ -1,0 +1,93 @@
+ok take my resume and analyze it for my references. Then go through the excel sheet I just provided 3 sheets (apply, emails, journal)
+
+
+APPLY
+
+[
+Draft a highly professional recruiter email in exactly **2 short paragraphs** (not long, not generic), with a tone that feels **personally written, intelligent, and recruiter-attractive**.
+
+I will provide:
+
+1. Company name
+2. Recruiter name (if available)
+3. Job title
+4. Job description
+5. My skills (take if from my resume which I have given you)
+6. Company information (mission, recent work, values, achievements, LinkedIn/company page content)
+
+Your task:
+
+* Write the email in a way that immediately shows I have researched the company.
+* Use one meaningful company insight naturally in the opening paragraph.
+* Align my strongest relevant skills with what the company appears to value most.
+* Do *not* repeat job description mechanically.
+* Make the writing sound mature, confident, and concise.
+* Keep it human, not AI-generic.
+* Make the second paragraph emotionally stronger than the first by connecting my work style with their company approach.
+* Avoid clichés like “I am writing to apply” or “I hope you are doing well” unless truly needed.
+* The email must feel like this style: short, sharp, thoughtful, and professionally persuasive enough that even I feel like reading it twice.
+
+Output format:
+
+* Final email only
+* 2 paragraphs only
+* Professional closing line included(don't share my number)
+
+take these as example
+1 - 
+Dear [Recruiter’s Name],
+The Trust & Safety role at Swiggy stood out because it combines analytical discipline with direct responsibility for platform quality and user trust—an area where careful interpretation of data matters significantly.
+My background in data analysis, SQL, Python, and structured problem solving has trained me to look beyond numbers and identify patterns that support better decisions. I would value the opportunity to apply that mindset in a function that directly protects platform integrity.
+
+2-
+Dear [Recruiter’s Name],
+What makes this Swiggy opportunity especially exciting is how deeply data influences real-time business decisions at scale—from operations to customer experience. That kind of fast-moving analytical environment is exactly where meaningful data science creates visible impact.
+My project experience includes machine learning, predictive analysis, NLP, and Python-based data workflows, where the focus has been on converting raw data into practical intelligence. I would be excited to contribute that mindset in a product-driven environment like Swiggy.
+
+3-
+Dear [Recruiter’s Name],
+TCS has long stood out to me for the way it delivers large-scale transformation through disciplined execution and data-led decision making. The analytical rigor expected in this role strongly matches the kind of structured problem-solving I enjoy.
+My experience includes Python, SQL, Power BI, and dashboard development, with a focus on making data understandable and actionable for business use. I would welcome the opportunity to contribute that approach within a high-impact environment like TCS.
+
+4-
+Dear [Recruiter’s Name],
+OneMagnify’s positioning at the intersection of data, technology, and AI immediately stood out to me because it reflects exactly where modern problem-solving is evolving—where intelligence must directly support business execution.
+My work with Python, machine learning, NLP, and LLM-based systems has focused on building solutions that are technically sound yet practically usable. I would value the opportunity to contribute to a team where AI is treated as a business enabler rather than only a technical function.
+
+5- 
+Dear [Recruiter’s Name],
+What makes Caterpillar particularly compelling is how deeply data and digital transformation are being integrated into industries that shape real-world infrastructure. The scale and operational relevance of your data science work make the opportunity especially meaningful.
+My background in analytics, Python, SQL, and machine learning has consistently centered around converting complex datasets into decisions and predictive insights. I would be excited to contribute to an environment where analytical work directly supports large-scale operational innovation.
+]
+
+EMAILS
+step 1 :-
+once the mail is ready. come to this sheet and:-
+Company name - write the company name
+Cover letter - past the email here for each company
+
+leave the rest of the column
+
+step 2:-
+now take take this worksheet. go to Emails sheet
+[
+1. you will have the email content (from "email to send" column), 
+2. draft the email for me with the names given in the "recruiter name" column where names separated by ","
+3. use my Gmail connection to directly draft the email from my gmail account and do it for each recruiter separately, do some good experiment for a good subject after every 5 emails.(don't save it in any sheet)
+]
+
+JOURNAL
+Now come back to the sheet on the Journal sheet
+copy-past all the content from Apply and Email sheet and delete the records from the those sheets. mark today's date on the "Mail Date" column.(all date data format "mm/dd/yyyy")
+
+Finally give me back the final worksheet.
+
+
+
+--------------------------------
+FOLLOW UP
+--------------------------------
+
+I will give you the list of names of the people I have sent the mail before. 
+1. find the mail where the name in the email body will match with the name I have given to you. 
+2. open there email and write a reply to the same person or email which I will give to you.
